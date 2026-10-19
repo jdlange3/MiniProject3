@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;80.0;100.0;0.41;1.00;2;2;NA;Bot-only and one-day commits not counted as recovery
+WhyRecovered;50.0;100.0;NA;NA;5;5;NA;Reasons checked against commits right after the gap
+ActivityPattern;20.0;100.0;0.05;1.00;8;8;NA;Mostly 'cyclical' vs. fixed-interval definition
+Currentstatus;100.0;100.0;1.00;1.00;0;0;NA;"Same date rule; author value derived from last-commit date"
+RecentThemes;0.0;100.0;NA;NA;10;10;NA;"Author had no values recorded; validator's adopted"
